@@ -1,0 +1,7 @@
+node_modules
+dist
+dev-dist
+verify-shots
+*.log
+.DS_Store
+*.tsbuildinfo
